@@ -1,0 +1,113 @@
+main{
+	padding: 15px;
+}
+
+/* TABLEAU */
+
+.tableau #create{
+	color: white;
+    text-shadow: none;
+    background-color: #35aa47;
+    width: 150px;
+}
+
+.tableau{	
+	border: 1px solid #555555;
+}
+
+.tableau-title{
+	padding: 10px 15px;
+	background-color: #555555;
+	color: #fff;
+	font-size: 20px;
+}
+
+.tableau-body{
+	padding: 10px 15px;
+}
+
+.tableau .table{
+	margin-top: 15px;
+}
+
+.tableau .table a{
+	font-size: 11px !important;
+    line-height: 13px;
+    padding: 4px 10px;
+}
+
+.tableau .table tr th{
+	font-size: 14px;
+    font-weight: 600;
+}
+
+.tableau .table .description{
+	max-width: 0;
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis; 
+}
+
+.tableau tr{
+	cursor: pointer;
+}
+
+/* BOOK */
+
+.book .category{
+	text-align: center;
+	color: #fff;
+	width: 25%;
+	padding: 5px 25px;
+	line-height: 25px;
+	border-radius: 10px;
+}
+
+.book .description{
+	margin: 20px 0;
+	padding: 15px 25px;
+	font-style: italic;
+	border: 1px solid rgba(0,0,0,.125);
+}
+
+.book .cover{
+	width: 100%;
+	height: auto;
+	border: 1px solid rgba(0,0,0,.125);
+}
+
+.book ul{
+	list-style:none;
+	margin-left:0;
+	padding-left:0;
+}
+
+.book ul li{
+	margin-bottom:15px;
+}
+
+.book ul li span{
+	display: inline-block;
+	width: 160px;
+}
+
+.book ul li span, .book label{
+	font-weight: 600;
+}
+
+.book .status a{
+	color: #fff;
+	width: 100%;
+}
+
+.book .options .card-body div{
+	margin-bottom: 20px;
+}
+
+.book .buylink button{
+	background-color: #ff9900;
+	color: #fff;
+}
+
+
+
