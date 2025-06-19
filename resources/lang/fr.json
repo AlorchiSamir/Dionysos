@@ -1,0 +1,134 @@
+{	
+	"new" : "Nouveau",
+	"my" : "Mes",
+	"from" : "à",
+	"add" : "Ajouter",
+	"update" : "Modifier",
+	"delete" : "Supprimer",
+	"return" : "Retour",
+	"validate" : "Valider",
+	"send" : "Envoyer",
+	"report" : "Signaler",
+	"reported" : "Signalé",
+	"verified" : "Vérifié",
+	"name" : "nom",
+	"home" : "Accueil",
+	"date" : "date",
+	"filter" : "Filtre",
+	"interest" : "Favoris",
+	"like" : "Coups de coeur",
+	"not-interest" : "Aucun favori",
+	"not-like" : "Aucun coup de coeur",
+
+	"results" : "Résultats",
+	"there_is" : "il y a",
+	"just_now" : "à l'instant",
+	"minutes" : "minutes",
+	"hours" : "heures",
+	"days" : "jours",
+
+	"advice_is_useful" : "Cet avis a été utile ?",
+	
+
+	"view" : "vu",
+	"reply" : "répondu",
+	"answer" : "réponse",
+	"your_reply" : "Votre réponse",
+
+	"error" : "erreur",
+	"warning" : "attention",
+	"info" : "info",
+
+	"all" : "Tous",
+
+	"to_search" : "Rechercher",	
+	"search" : "Recherche",
+
+	"set_register_query" : "Enregistrer recherche",
+	"get_register_query" : "Dernière recherche",
+
+	"professionals" : "Professionels",
+	"person" : "Artiste",
+	"persons" : "Artistes",
+	"society" : "Société",
+	"place" : "Lieu",
+	"companies" : "Entreprises",
+	"halls" : "Salles",
+	"metiers" : "Métiers",
+	"skills" : "Compétences",
+	"advice" : "Avis",
+
+	"author" : "auteur",
+
+	"choice_your" : "Choisissez vos",
+	"add_your_first_hall" : "Ajoutez votre première salle",
+	"your_company" : "Votre entreprise",
+	"confirmation_message" : "Votre message a bien été envoyé",
+
+	"my_halls" : "Mes salles",
+
+	"images" : "images",
+	"gallery" : "galerie",
+
+	"contact_person" : "Personne de contact",
+
+	"deejay" : "Deejay",
+	"musician" : "Musicien",
+	"animator" : "Animateur",
+	"magician" : "Magicien",
+	"caterer" : "Traiteur",
+	"cleaning" : "Société de nettoyage",
+	"security" : "Agence de sécurité",
+	"provider" : "Fournisseur",
+	"communication" : "Agence de communication",
+	"barman" : "Barman",
+	"hall_owner" : "Salle",	
+
+	"other_results" : "Proche de",
+	"no_result" : "Aucun résultat",
+
+	"login" : "Se connecter",
+	"logout" : "Se déconnecter",	
+	"create_account" : "Créer un compte",
+	"become_pro" : "Devenir Pro",
+
+	"add_address" : "Ajouter une adresse",
+	"add_hall" :  "Ajouter une salle",
+	"add_image" : "Ajouter une image",	
+
+	"city" : "ville",
+	"postalcode" : "code postal",
+	"street" : "rue",
+
+	"url" : "url",
+
+	"tva_number" : "Numéro de TVA",
+	"description" : "description",
+	"no_description" : "Aucune description",
+	"informations" : "Informations",
+	"parking" : "parking",
+	"map" : "carte",
+
+	"insert_comment" : "Ajouter votre commentaire",
+	"noconnect_comment" : "Veuillez vous connecter si vous voulez poster un avis",
+
+	"send_message" : "Envoyer un message",
+
+	"message" : "Message",
+	"messages" : "Messages",
+	"settings" : "Paramètres",
+	"interests" : "Favoris",
+
+	"title" : "titre", 
+	"text" : "texte",
+
+    "welcome": "Bienvenu chez Dionysos",
+    "last_videos" : "Dernières vidéos",
+
+    "success_settings" : "Paramètres modifiés",
+    "success_address" : "Adresse modifiée",
+    "success-advice" : "Votre avis a été posté",
+    "success_image" : "Image enregistré",
+    "success_video" : "Vidéo enregistrée",
+	"mail_verified" : "Votre adresse email a bien été vérifiée, merci !"
+	}
